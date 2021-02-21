@@ -2,8 +2,8 @@ import os
 import json
 import pprint
 
-anno_files_pth='data/synth_data/txt/'
-formated_anno_output_pth='data/detections_yolo/txt/'
+anno_files_pth='data/raw/synth_data/txt/'
+formated_anno_output_pth='data/prepared/detections_yolo/txt/'
 os.makedirs(formated_anno_output_pth, exist_ok=True)
 
 IMG_WIDTH=933

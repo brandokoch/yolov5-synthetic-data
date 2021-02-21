@@ -1,0 +1,3905 @@
+{
+  "version": "0.0.1",
+  "metrics": [
+    {
+      "capture_id": "b973f21e-12c8-4025-9d82-c18817b5de7c",
+      "annotation_id": null,
+      "sequence_id": "c68a3b45-ea44-4f52-8c10-3ae79ff7cea6",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 2
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "b973f21e-12c8-4025-9d82-c18817b5de7c",
+      "annotation_id": null,
+      "sequence_id": "c68a3b45-ea44-4f52-8c10-3ae79ff7cea6",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 12740
+        },
+        {
+          "label_id": 1,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13731
+        },
+        {
+          "label_id": 9,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 30041
+        },
+        {
+          "label_id": 9,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 35981
+        },
+        {
+          "label_id": 6,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 41053
+        },
+        {
+          "label_id": 7,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 22347
+        },
+        {
+          "label_id": 8,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 15476
+        },
+        {
+          "label_id": 4,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 192
+        },
+        {
+          "label_id": 10,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 27970
+        }
+      ]
+    },
+    {
+      "capture_id": "894dde41-4283-4dd6-baae-bb8257d000ef",
+      "annotation_id": null,
+      "sequence_id": "53dfa892-6efd-47f5-857a-04361c2375e9",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "894dde41-4283-4dd6-baae-bb8257d000ef",
+      "annotation_id": null,
+      "sequence_id": "53dfa892-6efd-47f5-857a-04361c2375e9",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 4,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 27266
+        },
+        {
+          "label_id": 2,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 49175
+        },
+        {
+          "label_id": 1,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16266
+        },
+        {
+          "label_id": 9,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 37637
+        },
+        {
+          "label_id": 10,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 66865
+        },
+        {
+          "label_id": 2,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 29046
+        },
+        {
+          "label_id": 3,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 19768
+        },
+        {
+          "label_id": 6,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 5440
+        }
+      ]
+    },
+    {
+      "capture_id": "2c0e41c8-efe5-4c8b-a086-da954edd711d",
+      "annotation_id": null,
+      "sequence_id": "bca26258-18a2-4926-ac9f-b88dca390ae8",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 3
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 2
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "2c0e41c8-efe5-4c8b-a086-da954edd711d",
+      "annotation_id": null,
+      "sequence_id": "bca26258-18a2-4926-ac9f-b88dca390ae8",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 17160
+        },
+        {
+          "label_id": 1,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 17680
+        },
+        {
+          "label_id": 5,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 31623
+        },
+        {
+          "label_id": 4,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 24373
+        },
+        {
+          "label_id": 7,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 53856
+        },
+        {
+          "label_id": 1,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17587
+        },
+        {
+          "label_id": 6,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 30400
+        },
+        {
+          "label_id": 7,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 20728
+        }
+      ]
+    },
+    {
+      "capture_id": "97aa6090-846d-4ea2-bdea-bd53a8c083e5",
+      "annotation_id": null,
+      "sequence_id": "19b581e6-b0c9-466d-9667-4a3e8331f7f7",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 2
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 2
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "97aa6090-846d-4ea2-bdea-bd53a8c083e5",
+      "annotation_id": null,
+      "sequence_id": "19b581e6-b0c9-466d-9667-4a3e8331f7f7",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 3,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 12412
+        },
+        {
+          "label_id": 7,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 21091
+        },
+        {
+          "label_id": 4,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 46929
+        },
+        {
+          "label_id": 4,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 36563
+        },
+        {
+          "label_id": 3,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 6000
+        },
+        {
+          "label_id": 5,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 73376
+        },
+        {
+          "label_id": 10,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 19304
+        }
+      ]
+    },
+    {
+      "capture_id": "c1d19846-b294-4a09-bb64-6a7c1621486f",
+      "annotation_id": null,
+      "sequence_id": "abf20fbf-90e8-4086-a44c-5fa3f1739e85",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "capture_id": "c1d19846-b294-4a09-bb64-6a7c1621486f",
+      "annotation_id": null,
+      "sequence_id": "abf20fbf-90e8-4086-a44c-5fa3f1739e85",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 8,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16020
+        },
+        {
+          "label_id": 1,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17767
+        },
+        {
+          "label_id": 3,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16773
+        },
+        {
+          "label_id": 10,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 60039
+        },
+        {
+          "label_id": 4,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 31624
+        },
+        {
+          "label_id": 5,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 61975
+        },
+        {
+          "label_id": 10,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 24651
+        },
+        {
+          "label_id": 9,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 14251
+        }
+      ]
+    },
+    {
+      "capture_id": "33a41bef-bd89-4bf5-832f-2ace850d35f8",
+      "annotation_id": null,
+      "sequence_id": "2b044d54-513b-460e-b7e6-f5c9eb4de1c4",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 2
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 3
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "33a41bef-bd89-4bf5-832f-2ace850d35f8",
+      "annotation_id": null,
+      "sequence_id": "2b044d54-513b-460e-b7e6-f5c9eb4de1c4",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 7,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 24077
+        },
+        {
+          "label_id": 9,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17377
+        },
+        {
+          "label_id": 10,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 31076
+        },
+        {
+          "label_id": 9,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 27376
+        },
+        {
+          "label_id": 8,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 18069
+        },
+        {
+          "label_id": 5,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 49326
+        },
+        {
+          "label_id": 7,
+          "instance_id": 12,
+          "instance_color": {
+            "r": 202,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 24957
+        },
+        {
+          "label_id": 3,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 3699
+        },
+        {
+          "label_id": 9,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 3763
+        }
+      ]
+    },
+    {
+      "capture_id": "4a23fc7d-6a33-495e-87cf-18e1ed8b0fd2",
+      "annotation_id": null,
+      "sequence_id": "2f8ca7f5-cd28-4e74-a746-edb94025469f",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 1
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 2
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "4a23fc7d-6a33-495e-87cf-18e1ed8b0fd2",
+      "annotation_id": null,
+      "sequence_id": "2f8ca7f5-cd28-4e74-a746-edb94025469f",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 2,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 41674
+        },
+        {
+          "label_id": 9,
+          "instance_id": 12,
+          "instance_color": {
+            "r": 202,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 33697
+        },
+        {
+          "label_id": 6,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 42178
+        },
+        {
+          "label_id": 4,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 48846
+        },
+        {
+          "label_id": 1,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17627
+        },
+        {
+          "label_id": 9,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 12539
+        },
+        {
+          "label_id": 6,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 56904
+        },
+        {
+          "label_id": 5,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 28613
+        },
+        {
+          "label_id": 7,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 6713
+        },
+        {
+          "label_id": 8,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 2125
+        }
+      ]
+    },
+    {
+      "capture_id": "9ae43f18-2ba3-45d8-b3c0-09def5e12841",
+      "annotation_id": null,
+      "sequence_id": "fc5ebfee-8827-48d1-b57e-b9b7c99cdf06",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 1
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 2
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "9ae43f18-2ba3-45d8-b3c0-09def5e12841",
+      "annotation_id": null,
+      "sequence_id": "fc5ebfee-8827-48d1-b57e-b9b7c99cdf06",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 3,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 22586
+        },
+        {
+          "label_id": 2,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 27176
+        },
+        {
+          "label_id": 1,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16324
+        },
+        {
+          "label_id": 6,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 45339
+        },
+        {
+          "label_id": 9,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 10038
+        },
+        {
+          "label_id": 3,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 9660
+        }
+      ]
+    },
+    {
+      "capture_id": "7d910789-461c-40e0-9616-e422690a1bdc",
+      "annotation_id": null,
+      "sequence_id": "157191f8-b08a-42e7-9bc8-62d8c827d1b1",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "7d910789-461c-40e0-9616-e422690a1bdc",
+      "annotation_id": null,
+      "sequence_id": "157191f8-b08a-42e7-9bc8-62d8c827d1b1",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 6,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 33267
+        },
+        {
+          "label_id": 4,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 38131
+        },
+        {
+          "label_id": 2,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 50823
+        },
+        {
+          "label_id": 2,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 22608
+        },
+        {
+          "label_id": 5,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 53333
+        },
+        {
+          "label_id": 3,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 10443
+        },
+        {
+          "label_id": 10,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 25976
+        }
+      ]
+    },
+    {
+      "capture_id": "66dcf8d9-42f6-47e1-b505-6bcaef9dbaf6",
+      "annotation_id": null,
+      "sequence_id": "812b2c1b-c991-45f9-8d14-0c2a4acf634b",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 2
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 3
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 2
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "66dcf8d9-42f6-47e1-b505-6bcaef9dbaf6",
+      "annotation_id": null,
+      "sequence_id": "812b2c1b-c991-45f9-8d14-0c2a4acf634b",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 8,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13191
+        },
+        {
+          "label_id": 6,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13051
+        },
+        {
+          "label_id": 3,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 17885
+        },
+        {
+          "label_id": 5,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 84418
+        },
+        {
+          "label_id": 9,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 36423
+        },
+        {
+          "label_id": 6,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 45843
+        },
+        {
+          "label_id": 6,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 9946
+        },
+        {
+          "label_id": 5,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 46392
+        },
+        {
+          "label_id": 8,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 14272
+        },
+        {
+          "label_id": 1,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 16495
+        }
+      ]
+    },
+    {
+      "capture_id": "396413fb-8647-4c4d-bc18-10d3ec0923fe",
+      "annotation_id": null,
+      "sequence_id": "3583ee2d-768b-4c26-a534-e743b07440fa",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 2
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 2
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 2
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "396413fb-8647-4c4d-bc18-10d3ec0923fe",
+      "annotation_id": null,
+      "sequence_id": "3583ee2d-768b-4c26-a534-e743b07440fa",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 8,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13868
+        },
+        {
+          "label_id": 9,
+          "instance_id": 12,
+          "instance_color": {
+            "r": 202,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 26265
+        },
+        {
+          "label_id": 5,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 86123
+        },
+        {
+          "label_id": 9,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 8256
+        },
+        {
+          "label_id": 5,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 80893
+        },
+        {
+          "label_id": 6,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 23321
+        },
+        {
+          "label_id": 8,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 10606
+        },
+        {
+          "label_id": 6,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 44046
+        }
+      ]
+    },
+    {
+      "capture_id": "02d2fd8a-dcca-41a4-a7ac-8ebf3708428f",
+      "annotation_id": null,
+      "sequence_id": "9b442445-c637-425a-acde-bc7d68de3be3",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "02d2fd8a-dcca-41a4-a7ac-8ebf3708428f",
+      "annotation_id": null,
+      "sequence_id": "9b442445-c637-425a-acde-bc7d68de3be3",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 9,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 2000
+        },
+        {
+          "label_id": 2,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 39922
+        },
+        {
+          "label_id": 9,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 22036
+        },
+        {
+          "label_id": 10,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 50405
+        },
+        {
+          "label_id": 4,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 47103
+        },
+        {
+          "label_id": 8,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 14146
+        },
+        {
+          "label_id": 6,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 39414
+        },
+        {
+          "label_id": 2,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 21627
+        }
+      ]
+    },
+    {
+      "capture_id": "440dddf0-da69-4185-9667-85d6177470bb",
+      "annotation_id": null,
+      "sequence_id": "8d82553d-3a37-41b8-aa91-233766d03685",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 3
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "440dddf0-da69-4185-9667-85d6177470bb",
+      "annotation_id": null,
+      "sequence_id": "8d82553d-3a37-41b8-aa91-233766d03685",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 7,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 39133
+        },
+        {
+          "label_id": 8,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 11803
+        },
+        {
+          "label_id": 7,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 70003
+        },
+        {
+          "label_id": 7,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 72801
+        },
+        {
+          "label_id": 9,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 1580
+        },
+        {
+          "label_id": 3,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 5645
+        },
+        {
+          "label_id": 6,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 20435
+        }
+      ]
+    },
+    {
+      "capture_id": "75045d59-54d1-4af0-bac1-d891ea0c6fae",
+      "annotation_id": null,
+      "sequence_id": "11ac686d-f000-4e9e-afce-45e38ce8c235",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "75045d59-54d1-4af0-bac1-d891ea0c6fae",
+      "annotation_id": null,
+      "sequence_id": "11ac686d-f000-4e9e-afce-45e38ce8c235",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 9,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 20752
+        },
+        {
+          "label_id": 2,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 33466
+        },
+        {
+          "label_id": 2,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 51150
+        },
+        {
+          "label_id": 9,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 32417
+        },
+        {
+          "label_id": 1,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 7818
+        },
+        {
+          "label_id": 6,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 46161
+        }
+      ]
+    },
+    {
+      "capture_id": "e6f98c8b-5760-42e4-a71a-e0454cc567eb",
+      "annotation_id": null,
+      "sequence_id": "df0b0c1e-f29a-485c-9a30-32c9019a4880",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 2
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 2
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "e6f98c8b-5760-42e4-a71a-e0454cc567eb",
+      "annotation_id": null,
+      "sequence_id": "df0b0c1e-f29a-485c-9a30-32c9019a4880",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 3,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 12779
+        },
+        {
+          "label_id": 9,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 22659
+        },
+        {
+          "label_id": 8,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16347
+        },
+        {
+          "label_id": 10,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 68103
+        },
+        {
+          "label_id": 1,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 16562
+        },
+        {
+          "label_id": 6,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13845
+        },
+        {
+          "label_id": 3,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 11139
+        },
+        {
+          "label_id": 6,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 44605
+        }
+      ]
+    },
+    {
+      "capture_id": "a8c0449f-555b-47fd-82d0-245083a462f2",
+      "annotation_id": null,
+      "sequence_id": "b9315aee-45c8-4110-946b-7a461d6e7209",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "a8c0449f-555b-47fd-82d0-245083a462f2",
+      "annotation_id": null,
+      "sequence_id": "b9315aee-45c8-4110-946b-7a461d6e7209",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 9,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 20920
+        },
+        {
+          "label_id": 5,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 61622
+        },
+        {
+          "label_id": 6,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 49531
+        },
+        {
+          "label_id": 2,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 24376
+        },
+        {
+          "label_id": 2,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 33345
+        },
+        {
+          "label_id": 9,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 29906
+        },
+        {
+          "label_id": 4,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 27691
+        }
+      ]
+    },
+    {
+      "capture_id": "9e5638a7-f166-4366-8c30-55f8c7972336",
+      "annotation_id": null,
+      "sequence_id": "85bfe7f5-3093-4aeb-b185-986109cd35ef",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 2
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "capture_id": "9e5638a7-f166-4366-8c30-55f8c7972336",
+      "annotation_id": null,
+      "sequence_id": "85bfe7f5-3093-4aeb-b185-986109cd35ef",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 8,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13544
+        },
+        {
+          "label_id": 4,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 21268
+        },
+        {
+          "label_id": 10,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 61074
+        },
+        {
+          "label_id": 1,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 14380
+        },
+        {
+          "label_id": 6,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 33196
+        },
+        {
+          "label_id": 10,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 34945
+        },
+        {
+          "label_id": 4,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 36843
+        }
+      ]
+    },
+    {
+      "capture_id": "86b94bd6-8314-4d55-a017-ec2879ca401c",
+      "annotation_id": null,
+      "sequence_id": "d5447ecd-f752-48fc-826f-09c960d0abd7",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 1
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 2
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 2
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 2
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "86b94bd6-8314-4d55-a017-ec2879ca401c",
+      "annotation_id": null,
+      "sequence_id": "d5447ecd-f752-48fc-826f-09c960d0abd7",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 5,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 15564
+        },
+        {
+          "label_id": 6,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 43303
+        },
+        {
+          "label_id": 9,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 3548
+        },
+        {
+          "label_id": 5,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 55277
+        },
+        {
+          "label_id": 8,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 16432
+        },
+        {
+          "label_id": 7,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 26208
+        },
+        {
+          "label_id": 8,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 11648
+        },
+        {
+          "label_id": 6,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 33818
+        },
+        {
+          "label_id": 2,
+          "instance_id": 12,
+          "instance_color": {
+            "r": 202,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17400
+        }
+      ]
+    },
+    {
+      "capture_id": "a4ec272e-b708-4afa-9c2c-f55b6fe3d48f",
+      "annotation_id": null,
+      "sequence_id": "1277a08a-9635-41f4-8cc5-c809e4510ec4",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 1
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 3
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 1
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "a4ec272e-b708-4afa-9c2c-f55b6fe3d48f",
+      "annotation_id": null,
+      "sequence_id": "1277a08a-9635-41f4-8cc5-c809e4510ec4",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 4,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 41591
+        },
+        {
+          "label_id": 4,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 34034
+        },
+        {
+          "label_id": 6,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 42019
+        },
+        {
+          "label_id": 7,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 51326
+        },
+        {
+          "label_id": 4,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 30917
+        },
+        {
+          "label_id": 9,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 11789
+        },
+        {
+          "label_id": 8,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 5162
+        },
+        {
+          "label_id": 2,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 1162
+        }
+      ]
+    },
+    {
+      "capture_id": "e221c6a8-91bf-4242-b9fe-f64b5ae975ea",
+      "annotation_id": null,
+      "sequence_id": "a6a06890-5120-4e21-879a-bc115da2c7f6",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 3
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 3
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 2
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 2
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "e221c6a8-91bf-4242-b9fe-f64b5ae975ea",
+      "annotation_id": null,
+      "sequence_id": "a6a06890-5120-4e21-879a-bc115da2c7f6",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 5,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 21609
+        },
+        {
+          "label_id": 3,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 14251
+        },
+        {
+          "label_id": 3,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 24651
+        },
+        {
+          "label_id": 8,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 16098
+        },
+        {
+          "label_id": 7,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 43339
+        },
+        {
+          "label_id": 3,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 19803
+        },
+        {
+          "label_id": 5,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 1155
+        },
+        {
+          "label_id": 9,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 5759
+        },
+        {
+          "label_id": 6,
+          "instance_id": 14,
+          "instance_color": {
+            "r": 255,
+            "g": 53,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 17253
+        },
+        {
+          "label_id": 8,
+          "instance_id": 10,
+          "instance_color": {
+            "r": 0,
+            "g": 160,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 13153
+        },
+        {
+          "label_id": 9,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 6468
+        },
+        {
+          "label_id": 5,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 35383
+        }
+      ]
+    },
+    {
+      "capture_id": "cf0577d6-9bc0-4344-927a-e730fc4f47bb",
+      "annotation_id": null,
+      "sequence_id": "e8b154c6-c40d-4fbe-b58e-56964b246f91",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 3
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 1
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "cf0577d6-9bc0-4344-927a-e730fc4f47bb",
+      "annotation_id": null,
+      "sequence_id": "e8b154c6-c40d-4fbe-b58e-56964b246f91",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 9,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 23473
+        },
+        {
+          "label_id": 3,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 21718
+        },
+        {
+          "label_id": 4,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 44020
+        },
+        {
+          "label_id": 10,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 41068
+        },
+        {
+          "label_id": 3,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 15322
+        },
+        {
+          "label_id": 3,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 17914
+        },
+        {
+          "label_id": 5,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 42182
+        },
+        {
+          "label_id": 7,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 2933
+        }
+      ]
+    },
+    {
+      "capture_id": "0c466872-a12e-4601-bddb-05d63f86851f",
+      "annotation_id": null,
+      "sequence_id": "a53b2459-44b2-45af-99df-329d8fb6f595",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 1
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 1
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 2
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "capture_id": "0c466872-a12e-4601-bddb-05d63f86851f",
+      "annotation_id": null,
+      "sequence_id": "a53b2459-44b2-45af-99df-329d8fb6f595",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 15674
+        },
+        {
+          "label_id": 4,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 34096
+        },
+        {
+          "label_id": 9,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 18259
+        },
+        {
+          "label_id": 2,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 48661
+        },
+        {
+          "label_id": 5,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 87177
+        },
+        {
+          "label_id": 4,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 12359
+        },
+        {
+          "label_id": 6,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 20640
+        },
+        {
+          "label_id": 3,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 15696
+        }
+      ]
+    },
+    {
+      "capture_id": "fd00fb4e-e69a-4ac9-9b5e-89e2ff718d69",
+      "annotation_id": null,
+      "sequence_id": "3539ea2a-391b-4e70-9ecd-60a980a073a8",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 0
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 2
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 1
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "capture_id": "fd00fb4e-e69a-4ac9-9b5e-89e2ff718d69",
+      "annotation_id": null,
+      "sequence_id": "3539ea2a-391b-4e70-9ecd-60a980a073a8",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 9,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 20099
+        },
+        {
+          "label_id": 3,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 25264
+        },
+        {
+          "label_id": 10,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 65921
+        },
+        {
+          "label_id": 7,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 34146
+        },
+        {
+          "label_id": 10,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 34625
+        },
+        {
+          "label_id": 3,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 14978
+        },
+        {
+          "label_id": 5,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 21829
+        }
+      ]
+    },
+    {
+      "capture_id": "2922f968-0e4b-45c6-b690-2a3a06f09640",
+      "annotation_id": null,
+      "sequence_id": "73debb71-d6a2-479e-9b2d-d46bc3dd6da3",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 0
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 0
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 2
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 0
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 1
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 0
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 2
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "2922f968-0e4b-45c6-b690-2a3a06f09640",
+      "annotation_id": null,
+      "sequence_id": "73debb71-d6a2-479e-9b2d-d46bc3dd6da3",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 17718
+        },
+        {
+          "label_id": 6,
+          "instance_id": 11,
+          "instance_color": {
+            "r": 234,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 55675
+        },
+        {
+          "label_id": 10,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 18575
+        },
+        {
+          "label_id": 4,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 41113
+        },
+        {
+          "label_id": 8,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 17641
+        },
+        {
+          "label_id": 8,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 6313
+        },
+        {
+          "label_id": 4,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 28715
+        }
+      ]
+    },
+    {
+      "capture_id": "ade005ef-d8d3-4537-bf67-405f6da75ae5",
+      "annotation_id": null,
+      "sequence_id": "5d1e5ea3-4fe8-403a-8e93-a0ee91c90de9",
+      "step": 0,
+      "metric_definition": "51da3c27-369d-4929-aea6-d01614635ce2",
+      "values": [
+        {
+          "label_id": 1,
+          "label_name": "drink_greentea_itoen",
+          "count": 1
+        },
+        {
+          "label_id": 2,
+          "label_name": "pasta_lasagne_barilla",
+          "count": 2
+        },
+        {
+          "label_id": 3,
+          "label_name": "lotion_essentially_nivea",
+          "count": 2
+        },
+        {
+          "label_id": 4,
+          "label_name": "craft_yarn_caron_01",
+          "count": 0
+        },
+        {
+          "label_id": 5,
+          "label_name": "cereal_cheerios_honeynut",
+          "count": 1
+        },
+        {
+          "label_id": 6,
+          "label_name": "cleaning_snuggle_henkel",
+          "count": 0
+        },
+        {
+          "label_id": 7,
+          "label_name": "candy_minipralines_lindt",
+          "count": 1
+        },
+        {
+          "label_id": 8,
+          "label_name": "drink_whippingcream_lucerne",
+          "count": 0
+        },
+        {
+          "label_id": 9,
+          "label_name": "snack_granolabar_naturevalley",
+          "count": 0
+        },
+        {
+          "label_id": 10,
+          "label_name": "snack_biscotti_ghiott_01",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "capture_id": "ade005ef-d8d3-4537-bf67-405f6da75ae5",
+      "annotation_id": null,
+      "sequence_id": "5d1e5ea3-4fe8-403a-8e93-a0ee91c90de9",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 7,
+          "instance_id": 2,
+          "instance_color": {
+            "r": 0,
+            "g": 74,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 21582
+        },
+        {
+          "label_id": 1,
+          "instance_id": 3,
+          "instance_color": {
+            "r": 149,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13253
+        },
+        {
+          "label_id": 3,
+          "instance_id": 7,
+          "instance_color": {
+            "r": 64,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          },
+          "visible_pixels": 18984
+        },
+        {
+          "label_id": 2,
+          "instance_id": 1,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 50218
+        },
+        {
+          "label_id": 3,
+          "instance_id": 4,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 223,
+            "a": 255
+          },
+          "visible_pixels": 9018
+        },
+        {
+          "label_id": 2,
+          "instance_id": 6,
+          "instance_color": {
+            "r": 255,
+            "g": 138,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 43118
+        },
+        {
+          "label_id": 10,
+          "instance_id": 5,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 212,
+            "a": 255
+          },
+          "visible_pixels": 33834
+        },
+        {
+          "label_id": 5,
+          "instance_id": 8,
+          "instance_color": {
+            "r": 11,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "visible_pixels": 13672
+        }
+      ]
+    }
+  ]
+}
